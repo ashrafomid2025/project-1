@@ -89,7 +89,6 @@ input{
     display: grid;
     grid-template-columns: 200px 1fr;
     grid-template-rows: 1fr;
-
 }
 .container-vertical{
     display: flex;
@@ -112,7 +111,7 @@ a:hover{
 }
 a:hover::after{
     content: "";
-    height: 3px;
+    height: 2px;
     width: 30px;
     position: absolute;
     background-color: #088178;
