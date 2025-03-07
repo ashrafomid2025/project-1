@@ -31,7 +31,7 @@
   counter-increment: img-counter;
    flex-basis: 36%;
    height: 230px;
-   border-radius: 5px;
+   border-radius: 7px;
    
 }
 .g-container .img-container::after{
